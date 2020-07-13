@@ -48,7 +48,7 @@ BeHealthy provides diet routine with recipes and excercise for its users, that i
 #### Upcoming exercises
 * Exercise description, and link to video
 
-### Additional Features (version 1.1)
+## Additional Features (version 1.1)
 1. Reminder through notification for meals and exercises
 1. Track of the water level
 1. Reminder for drinking water
@@ -57,11 +57,11 @@ BeHealthy provides diet routine with recipes and excercise for its users, that i
    * Motivational Quote
    * Day Streak
 
-### Dashboard (additional features in version 1.x ):
+## Dashboard (additional features in version 1.x ):
 * Goal tracking
 * Weekly Report
 
-### Additional Future Features (version 1.x)
+## Additional Future Features (version 1.x)
 * AI based robot for assistance with the plan
 * Social Discussion Forum
 * Tie up with grocery stores like BigBasket etc
