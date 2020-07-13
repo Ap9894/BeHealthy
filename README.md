@@ -23,12 +23,11 @@ BeHealthy provides diet routine with recipes and excercise for its users, that i
 #### User Account
 1. ID, Password, Nickname
 1. Additional Data/Information on SignUp
-    * Age , Gender , Height , Body-Weight
+    * Age , Gender , Height( in ft ) , Body-Weight( in kg )
     * Country(only India for now) , State , District
     * Wake Up Time , Sleeping Time
     * Total Working Hours (in a day, in a week)
     * Total Sleeping hours in a day
-    * Work Description
     * Breakfast Time, Lunch Time, Snacks Time, Dinner Time
     * Goals
       * Asthetic, Fatloss, General Fitness, Muscle Building
@@ -37,7 +36,7 @@ BeHealthy provides diet routine with recipes and excercise for its users, that i
     * Exercise days in a week ( S, M, T, W, T, F, S)
     * Exercise Time
     * Exercise Duration (15 mins, 30 mins, 45 mins, 60 mins, 90 mins, 120 mins)
-    * Current Body Type (Skinny, Chubby, Lean&fit, Fat, Muscular, other)
+    * Current Body Type (Skinny, Chubby, Lean&fit, Fat, Muscular)
     * Experience Level (Beginner, Novice, Intermediate, Advance)
     * Cost Limit ( min: X(fixed), max: Y )
 1. Update user information
@@ -54,7 +53,7 @@ BeHealthy provides diet routine with recipes and excercise for its users, that i
 1. Track of the water level
 1. Reminder for drinking water
 1. User SignUp (through fb, insta, google...)
-1. Dashboard (additional features in version 1.1) :
+1. Dashboard (additional features) :
    * Motivational Quote
    * Day Streak
 
