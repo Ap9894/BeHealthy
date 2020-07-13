@@ -16,8 +16,8 @@ BeHealthy provides diet routine with recipes and excercise for its users, that i
 ## Basic Features (version 1.0)
 1. get customised diet alongwith recipes and exercises 
 1. Dashboard (version 1.0) :
-  * Upcoming Meal for the day
-  * Exercises for the day
+   * Upcoming Meal for the day
+   * Exercises for the day
 1. User SignUp (through Gmail), Login , Logout
 
 #### User Account
@@ -55,8 +55,8 @@ BeHealthy provides diet routine with recipes and excercise for its users, that i
 1. Reminder for drinking water
 1. User SignUp (through fb, insta, google...)
 1. Dashboard (additional features in version 1.1) :
-  * Motivational Quote
-  * Day Streak
+   * Motivational Quote
+   * Day Streak
 
 ### Dashboard (additional features in version 1.x ):
 * Goal tracking
